@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/ubuntu/Downloads/netty-all-4.0.36.Final-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/ubuntu/Downloads/netty-all-4.0.36.Final-sources.jar"/>
+	<classpathentry kind="lib" path="/home/ubuntu/Downloads/netty-all-4.0.36.Final.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
